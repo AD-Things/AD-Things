@@ -1,4 +1,4 @@
-<h1 align="center">💖 Welcome to <a href="https://github.com/EternallyAD">EternallyAD</a> 💖</h1>
+<h1 align="center">💖 Welcome to <a href="https://github.com/cosmically.interwined">EternallyAD</a> 💖</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3ov9jExd1sJzGFFI3i/giphy.gif" width="300" />
