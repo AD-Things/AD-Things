@@ -8,9 +8,17 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400" />
+</p>
+
 ### 💌 About Us
 
 Hey there! We're Dhrubo & Adrija—partners in crime and in code. We believe in love, laughter, and building cool stuff together. Whether it's a cozy project or a playful experiment, every repo here is sprinkled with our love! 💕
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="350" />
+</p>
 
 ### 🌟 What You'll Find Here
 
@@ -21,9 +29,17 @@ Hey there! We're Dhrubo & Adrija—partners in crime and in code. We believe in 
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="400" />
+</p>
+
 ### 📌 Featured Project
 
-💞 Love and Togetherness 💫
+💞 **Love and Togetherness 💫**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="350" />
+</p>
 
 ---
 
@@ -44,6 +60,10 @@ us = EternallyAD()
 us.together_forever()
 ```
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" />
+</p>
+
 ---
 
 ### 📣 Connect With Us
@@ -51,4 +71,8 @@ us.together_forever()
 🌸 Instagram: [@EternallyAD](https://instagram.com/cosmically.interwined)
 
 💌 Always coding, always loving—forever yours, **Dhrubo & Adrija** 💌
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGwHEUCGILzPF0k/giphy.gif" width="400" />
+</p>
 
