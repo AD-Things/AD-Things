@@ -48,7 +48,7 @@ us.together_forever()
 
 ### 📣 Connect With Us
 
-🌸 Instagram: [@EternallyAD](https://instagram.com/EternallyAD)
+🌸 Instagram: [@EternallyAD](https://instagram.com/cosmically.interwined)
 
 💌 Always coding, always loving—forever yours, **Dhrubo & Adrija** 💌
 
