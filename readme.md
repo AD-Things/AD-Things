@@ -23,7 +23,7 @@ Hey there! We're Dhrubo & Adrija—partners in crime and in code. We believe in 
 
 ### 📌 Featured Project
 
-💞 **[Love in Sync](https://github.com/EternallyAD/LoveInSync)**: A special app we created to listen to music and watch videos together—because no distance can separate our hearts. 💫
+💞 Love and Togetherness 💫
 
 ---
 
